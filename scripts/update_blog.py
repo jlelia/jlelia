@@ -45,7 +45,7 @@ def update_readme():
         readme = file.read()
 
     # Regex to capture the start tag, content, and end tag
-    pattern = r"()(.*?)()"
+    pattern = r"(<!-- BLOG-POST-LIST:START -->)(.*?)(<!-- BLOG-POST-LIST:END -->)"
     
     # We replace the middle group (content) with our new blog_overview
     replacement = f"\\1\n{blog_overview}\\3"

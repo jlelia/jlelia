@@ -6,8 +6,11 @@ import sys
 def update_readme():
     # Fetch blog hub from my personal website
     url = "https://jlelia.net/blog"
+    # User-Agent header to prevent 403 Forbidden errors
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+
     try:
-        response = requests.get(url)
+        response = requests.get(url, headers=headers)
         response.raise_for_status()
     except Exception as e:
         print(f"Error fetching blog: {e}")
@@ -33,7 +36,6 @@ def update_readme():
         date = card.find('h4').text.strip()
         
         # Format as a Markdown list item for the README
-        # Example: - [2025 Recap](https://jlelia.net/blog5) - *01 Jan 2026*
         blog_overview += f"- [{title}]({link}) - *{date}*\n"
 
     # Update jlelia README.md
@@ -42,8 +44,10 @@ def update_readme():
     with open(readme_path, "r", encoding="utf-8") as file:
         readme = file.read()
 
-    # Regex to replace old blogs with new in README
-    # Matches everything between and pattern = r"()(.*?)()"
+    # Regex to capture the start tag, content, and end tag
+    pattern = r"()(.*?)()"
+    
+    # We replace the middle group (content) with our new blog_overview
     replacement = f"\\1\n{blog_overview}\\3"
     
     new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)

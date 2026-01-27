@@ -5,7 +5,7 @@
 ### <div align="center">👋 Hi there! I'm James.</div>
 
 <div align="center">
-  <em>Pathology PhD Candidate @ Yale University | Aspiring Machine Learning Engineer</em>
+  <em>Pathology and Molecular Medicine PhD Candidate @ Yale University</em>
 </div>
 
 <br />
@@ -16,10 +16,9 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 ### 🧬 About Me
 
-* 🔭 **Current Work:** I'm developing **CellPyAbility**, a tool to automate nuclei counting and data analysis for dose-response assays, and leading bioinformatics for a blood cancer therapeutic project.
-* 🌱 **Learning:** I'm diving deep into **Machine Learning & Deep Learning** applications in cell biology.
-* 🥅 **2026 Goal:** Reading one Computer Science or Data Science paper every week to build intuition from first principles.
-* 🥋 **Fun Fact:** I'm a competitive powerlifter and Judo practitioner. When I'm not coding or in the lab, I'm likely playing *Elden Ring* or consulting on science accuracy for authors like Hank Green.
+* 🔭 **Current Work:** I'm developing **CellPyAbility**, a tool to automate nuclei counting and data analysis for dose-response assays, and leading bioinformatics for several wet lab projects in cancer therapy.
+* 🌱 **Learning:** I'm diving deep into **Machine Learning and Deep Learning** applications in cell biology and medicine.
+* 🥋 **Fun Facts:** I competed nationally in powerlifting, have a brown belt in judo, and ran two ultramarathons. When I'm not working or exercising, I'm likely playing video games or reading!
 
 ---
 
@@ -49,9 +48,9 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[CellPyAbility](https://github.com/username/CellPyAbility)** | Automating dose-response analysis by processing microscopy images to count nuclei and calculate cell viability metrics. | `Python` `OpenCV` `Pandas` |
-| **[crispy_snake](https://github.com/username/crispy_snake)** | A Python package for bioinformatics designed to streamline CRISPR-related data processing workflows. | `Python` `Bioinformatics` |
-| **[Aesthetic Selection](https://github.com/username/repo-name)** | Exploring aesthetic selection in AI image generation, investigating how models interpret and generate visual appeal. | `Generative AI` `Python` |
+| **[CellPyAbility](https://github.com/username/CellPyAbility)** | Automating dose-response analysis by processing microscopy images to count nuclei and calculate cell viability metrics. | `Python` `CellProfiler` |
+| **[crispy_snake](https://github.com/username/crispy_snake)** | A Python package for bioinformatics designed to streamline CRISPR-related data processing workflows. | `Python` `Snakemake` `MAGeCK` `DrugZ` |
+| **[Aesthetic Selection](https://github.com/username/repo-name)** | Exploring aesthetic selection in AI image generation, investigating how models interpret and generate visual appeal. | `Python` `Stable Diffusion` `HPC` |
 
 ---
 

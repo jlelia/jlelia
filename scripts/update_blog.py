@@ -44,7 +44,7 @@ def update_readme():
 
     # Regex to replace old blogs with new in README
     # Matches everything between and pattern = r"()(.*?)()"
-    replacement = f"\\1\n{blog_content}\\3"
+    replacement = f"\\1\n{blog_overview}\\3"
     
     new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
     

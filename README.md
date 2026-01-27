@@ -57,6 +57,9 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 Recap](https://jlelia.net/blog5) - *01 January 2026*
+- [Why "Work Harder" Hardly Works](https://jlelia.net/blog4) - *09 October 2025*
+- [The Joy of Math](https://jlelia.net/blog3) - *20 July 2025*
 <!-- BLOG-POST-LIST:END -->
 
 ---

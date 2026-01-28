@@ -48,9 +48,9 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 | Project | Description | Built With | Link to Website |
 | :--- | :--- | :--- | :--- |
-| **[CellPyAbility](https://github.com/bindralab/cellpyability)** | Python package automating nuclei segmentation and dose-response analysis for high-throughput drug screens. | `Python` `CellProfiler` `Pandas` `NumPy` `SciPy` `Plotly` `PyInstaller` | [Project #2](https://jlelia.net/project2) |
-| **[Aesthetic Selection](https://github.com/jlelia/aesthetic_selection)** | AI at Yale Symposium exhibit where attendees applied selection pressure to a diffusion model through iterative voting cycles. | `Python` `Slurm` `PyTorch` `Diffusers` `Matplotlib` | [Project #3](https://jlelia.net/project3) |
-| **[crispy_snake](https://github.com/bindralab/crispy_snake)** | Automated CRISPR screen processing and analysis pipeline using Snakemake for accessible configuration. | `Python` `Snakemake` `FastQC` `MAGeCK` `DrugZ` `Matplotlib` | [Project #4](https://jlelia.net/project4) |
+| **[CellPyAbility](https://github.com/bindralab/cellpyability)** | Python package automating nuclei segmentation and dose-response analysis for high-throughput drug screens. | `Python` `CellProfiler` `Pandas` `NumPy` `SciPy` `Plotly` `PyInstaller` `PyPI` `Bioconda` | [Project #2](https://jlelia.net/project2) |
+| **[Aesthetic Selection](https://github.com/jlelia/aesthetic_selection)** | AI at Yale Symposium exhibit where attendees applied selection pressure in real-time to a diffusion model through iterative voting cycles. | `Python` `Slurm` `PyTorch` `Diffusers` `Matplotlib` | [Project #3](https://jlelia.net/project3) |
+| **[crispy_snake](https://github.com/bindralab/crispy_snake)** | Automated CRISPR screen processing and analysis pipeline using Snakemake for accessible configuration and optimized HPC performance. | `Python` `Snakemake` `FastQC` `MAGeCK` `DrugZ` `Matplotlib` | [Project #4](https://jlelia.net/project4) |
 ---
 
 ### 📝 Latest Blog Posts

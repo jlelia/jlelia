@@ -10,15 +10,15 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 ---
 
-### 🧬 About Me
+### 👨‍🔬 About Me
 
-* 🔭 **Current Work:** I'm writing up my PhD dissertation where I developed novel therapeutics targeting tumor-specific DNA repair deficiencies and built open-source software like **CellPyAbility** and **crispy_snake**.
+* 🧬 **Current Work:** I'm writing up my PhD dissertation where I developed novel therapeutics targeting tumor-specific DNA repair deficiencies and built open-source software like **CellPyAbility** and **crispy_snake**.
 * 🌱 **Learning:** I'm diving deep into **Machine Learning and Deep Learning** applications in cell biology and medicine.
 * 🥋 **Fun Facts:** I competed nationally in powerlifting, have a brown belt in judo, and ran two ultramarathons. When I'm not working or exercising, I'm likely playing video games or reading!
 
 ---
 
-### ⚡ Computational Toolkit
+### 💻 Computational Toolkit
 
 **Languages**
 <br />
@@ -44,13 +44,14 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 ---
 
-### 🚀 Featured Projects
+### 💡 Featured Projects
 
 | Project | Description | Built With | Link to Website |
-| :--- | :--- | :--- | :--- |
-| **[CellPyAbility](https://github.com/bindralab/cellpyability)** | Python package automating nuclei segmentation and dose-response analysis for high-throughput drug screens. | `Python` `CellProfiler` `Pandas` `NumPy` `SciPy` `Plotly` `PyInstaller` `PyPI` `Bioconda` | [Project #2](https://jlelia.net/project2) |
-| **[Aesthetic Selection](https://github.com/jlelia/aesthetic_selection)** | AI at Yale Symposium exhibit where attendees applied selection pressure in real-time to a diffusion model through iterative voting cycles. | `Python` `Slurm` `PyTorch` `diffusers` `transformers` `accelerate` `Matplotlib` | [Project #3](https://jlelia.net/project3) |
-| **[crispy_snake](https://github.com/bindralab/crispy_snake)** | Automated CRISPR screen processing and analysis pipeline using Snakemake for accessible configuration and optimized HPC performance. | `Python` `Snakemake` `FastQC` `Pandas` `NumPy` `MAGeCK` `DrugZ` `Matplotlib` | [Project #4](https://jlelia.net/project4) |
+| :---: | :--- | :--- | :---: |
+| **[CellPyAbility](https://github.com/bindralab/cellpyability)** | Python package automating nuclei segmentation and dose-response analysis for high-throughput drug screens. | `Python` `CellProfiler` `Pandas` `NumPy` `SciPy` `Plotly` `PyInstaller` `PyPI` `Bioconda` | [🔬](https://jlelia.net/project2) |
+| **[Aesthetic Selection](https://github.com/jlelia/aesthetic_selection)** | AI at Yale Symposium exhibit where attendees applied selection pressure in real-time to a diffusion model through iterative voting cycles. | `Python` `Slurm` `PyTorch` `diffusers` `transformers` `accelerate` `Matplotlib` | [🖼️](https://jlelia.net/project3) |
+| **[crispy_snake](https://github.com/bindralab/crispy_snake)** | Automated CRISPR screen processing and analysis pipeline using Snakemake for accessible configuration and optimized HPC performance. | `Python` `Snakemake` `FastQC` `Pandas` `NumPy` `MAGeCK` `DrugZ` `Matplotlib` | [🐍](https://jlelia.net/project4) |
+
 ---
 
 ### 📝 Latest Blog Posts
@@ -62,7 +63,7 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 ---
 
-### 📫 Connect with Me
+### <div align="center">📫 Connect with Me</div>
 
 <div align="center">
   <a href="https://jlelia.net"><img src="https://img.shields.io/badge/Website-jlelia.net-2ea44f?style=for-the-badge&logo=google-chrome" /></a>

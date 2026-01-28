@@ -13,7 +13,7 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 ### 👨‍🔬 About Me
 
 * 🧬 **Current Work:** I'm writing up my PhD dissertation where I developed novel therapeutics targeting tumor-specific DNA repair deficiencies and built open-source software like **CellPyAbility** and **crispy_snake**.
-* 🌱 **Learning:** I'm diving deep into **Machine Learning and Deep Learning** applications in cell biology and medicine.
+* 🌱 **Learning:** I'm building expertise in **Machine Learning and Deep Learning** applications in cell biology and medicine.
 * 🥋 **Fun Facts:** I competed nationally in powerlifting, have a brown belt in judo, and ran two ultramarathons. When I'm not working or exercising, I'm likely playing video games or reading!
 
 ---

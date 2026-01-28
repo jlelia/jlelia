@@ -1,4 +1,4 @@
-### <div align="center">👋 Hi there! I'm James Elia.</div>
+### <div align="center">James L. Elia</div>
 
 <div align="center">
   <em>Pathology and Molecular Medicine PhD Candidate @ Yale University</em>

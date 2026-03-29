@@ -6,9 +6,19 @@ import sys
 def update_readme():
     # Fetch blog hub from my personal website
     url = "https://jlelia.net/blog"
-    # User-Agent header to prevent 403 Forbidden errors
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
 
+    # Retrieve token from the environment
+    bypass_token = os.environ.get("CF_BYPASS_TOKEN")
+    
+    if not bypass_token:
+        print("Warning: CF_BYPASS_TOKEN environment variable not found. Request may be blocked.")
+
+    # Add the custom bypass header
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'X-CF-Bypass': bypass_token 
+    }
+    
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()

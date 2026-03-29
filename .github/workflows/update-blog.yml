@@ -26,6 +26,8 @@ jobs:
 
       - name: Run scraper script
         run: python scripts/update_blog.py
+        env:
+          CF_BYPASS_TOKEN ${{ secrets.CF_BYPASS_TOKEN }}
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v4

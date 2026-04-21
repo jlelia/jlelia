@@ -56,9 +56,9 @@ I am a **cancer biologist turned computational researcher** focused on creating 
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scientific Publishing as Lossy Compression](https://jlelia.net/blog8) - *01 April 2026*
 - [Post-Mortem of a Nonprofit](https://jlelia.net/blog7) - *01 March 2026*
 - [A Faucet is a Hole](https://jlelia.net/blog6) - *01 February 2026*
-- [2025 Recap](https://jlelia.net/blog5) - *01 January 2026*
 <!-- BLOG-POST-LIST:END -->
 
 ---

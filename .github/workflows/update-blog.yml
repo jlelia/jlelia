@@ -12,25 +12,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4 cloudscraper
 
       - name: Run scraper script
         run: python scripts/update_blog.py
-        env:
-          CF_BYPASS_TOKEN: ${{ secrets.CF_BYPASS_TOKEN }}
 
       - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5 # <-- Bumped to v5
         with:
           commit_message: "🤖 Update blog posts in README"
           branch: main

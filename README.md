@@ -1,20 +1,16 @@
 ### <div align="center">James L. Elia</div>
 
 <div align="center">
-  <em>Pathology and Molecular Medicine PhD Candidate @ Yale University</em>
+  <em>Machine Learning Scientist @ Encapsulate</em>
 </div>
 
 <br />
 
-I am a **cancer biologist turned computational researcher** focused on creating therapeutics for cancers with specific DNA repair defects in the Bindra Lab. Currently defending my dissertation in **June 2026**, I am transitioning from the wet lab to building software and ML models that accelerate drug discovery.
+Full-stack biologist and Yale Molecular Medicine PhD with 8+ years of research experience bridging cell biology, medicinal chemistry, and computational methods. 
 
----
+Focused on accelerating drug discovery by translating high-throughput biology into targeted therapeutics. 
 
-### 👨‍🔬 About Me
-
-* 🧬 **Current Work:** I'm writing up my PhD dissertation where I developed novel therapeutics targeting tumor-specific DNA repair deficiencies and built open-source software like **CellPyAbility** and **crispy_snake**.
-* 🌱 **Learning:** I'm building expertise in **Machine Learning and Deep Learning** applications in cell biology and medicine.
-* 🥋 **Fun Facts:** I competed nationally in powerlifting, have a brown belt in judo, and ran two ultramarathons. When I'm not working or exercising, I'm likely playing video games or reading!
+Proven track record of developing scalable, open-source Python packages and reproducible bioinformatics pipelines for cloud deployment to empower cross-functional teams.
 
 ---
 
